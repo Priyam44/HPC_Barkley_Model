@@ -1,0 +1,126 @@
+commit fe9c371a816082a1d74584acd3b1f7028e47931b
+Author: Priyam Gupta <priyam.gupta21@imperial.ac.uk>
+Date:   Wed Mar 23 15:05:38 2022 +0000
+
+    Final Commented Code
+
+M	ReactionDiffusion.h
+M	main.cpp
+
+commit 979f2ce1f4c34c483786c8b024d458ca6a7f43bf
+Author: Priyam Gupta <priyam.gupta21@imperial.ac.uk>
+Date:   Wed Mar 23 00:47:57 2022 +0000
+
+    Running with proper write function
+
+M	Makefile
+M	ReactionDiffusion.h
+M	main.cpp
+
+commit 7685d7a01786858236370c4d640738d1ab1a2570
+Author: Priyam Gupta <priyam.gupta21@imperial.ac.uk>
+Date:   Tue Mar 22 23:00:16 2022 +0000
+
+    All test case running
+
+M	Makefile
+M	ReactionDiffusion.h
+M	main.cpp
+
+commit 4dfa7ed6d2c52c79230e9c475fa4a8fd76835fbc
+Author: Priyam Gupta <priyam.gupta21@imperial.ac.uk>
+Date:   Mon Mar 21 20:44:18 2022 +0000
+
+    if reorder
+
+M	ReactionDiffusion.h
+M	main.cpp
+
+commit cb3586dacfa2f0b503ab311aaf08d9ebd939b7e3
+Author: Priyam Gupta <priyam.gupta21@imperial.ac.uk>
+Date:   Sun Mar 20 21:31:38 2022 +0000
+
+    ij | inside reaction term || collapse(2)
+
+M	Makefile
+M	ReactionDiffusion.h
+M	main.cpp
+
+commit 062a993c1e46bfebdeeadd904738a62a81ca6baf
+Author: Priyam Gupta <priyam.gupta21@imperial.ac.uk>
+Date:   Sun Mar 20 21:06:30 2022 +0000
+
+    Revert "Revert "Single loop iteration parallel""
+
+    This reverts commit 0856184b1c78cb9a9eaf02aff375a5ded29ca8e1.
+
+M	ReactionDiffusion.h
+
+commit 0856184b1c78cb9a9eaf02aff375a5ded29ca8e1
+Author: Priyam Gupta <priyam.gupta21@imperial.ac.uk>
+Date:   Sun Mar 20 20:59:49 2022 +0000
+
+    Revert "Single loop iteration parallel"
+
+    This reverts commit c1691b60228758d1962f44fccd05b5c66ef6705b.
+
+M	ReactionDiffusion.h
+
+commit c1691b60228758d1962f44fccd05b5c66ef6705b
+Author: Priyam Gupta <priyam.gupta21@imperial.ac.uk>
+Date:   Sun Mar 20 16:31:45 2022 +0000
+
+    Single loop iteration parallel
+
+M	ReactionDiffusion.h
+
+commit 1e6357f370d7021dca77797c22d556e327607b4b
+Author: Priyam Gupta <priyam.gupta21@imperial.ac.uk>
+Date:   Sun Mar 20 15:47:48 2022 +0000
+
+    first parallel
+
+A	Makefile
+M	ReactionDiffusion.h
+M	main.cpp
+
+commit c0993b79ae69c78eb4200378c48430e8d4657961
+Author: Priyam Gupta <priyam.gupta21@imperial.ac.uk>
+Date:   Sat Mar 19 20:11:33 2022 +0000
+
+    With boost without parallel , class separate file
+
+A	ReactionDiffusion.h
+M	main.cpp
+
+commit 314be3de3a4421e108ea10a46b6d15d8a3a0ae21
+Author: Priyam Gupta <priyam.gupta21@imperial.ac.uk>
+Date:   Mon Mar 14 00:11:43 2022 +0000
+
+    slight update
+
+M	main.cpp
+
+commit 4795208c435221133b1ffb8a2e9835091e074c5b
+Author: Priyam Gupta <priyam.gupta21@imperial.ac.uk>
+Date:   Mon Mar 14 00:09:56 2022 +0000
+
+    Class implementation with write function without parallel values converging to 0
+
+M	main.cpp
+
+commit 08b86e179d043055d6c60bd119a2738b6906c2de
+Author: Priyam Gupta <priyam.gupta21@imperial.ac.uk>
+Date:   Sun Mar 13 16:20:55 2022 +0000
+
+    1st successful run without parallel
+
+M	main.cpp
+
+commit ec1e6e8dc62de1a2364ca3c2f40b52c2809bbc73
+Author: Priyam Gupta <priyam.gupta21@imperial.ac.uk>
+Date:   Thu Mar 10 21:28:49 2022 +0000
+
+    initial implementation without solving and without class
+
+A	main.cpp
